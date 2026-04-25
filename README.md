@@ -64,4 +64,4 @@ Sistem secara otomatis menerapkan diskon berdasarkan kategori tiket yang dipilih
 
 ## 📝 Referensi Materi
 - **Simaremare, Mario. 11-01-Nested Constructs. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
-S- **imaremare, Mario. 11-03-Record. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
+- **imaremare, Mario. 11-03-Record. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
