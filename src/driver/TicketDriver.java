@@ -28,7 +28,7 @@ public class TicketDriver {
     }
 
     public static void processBooking(Ticket ticket, String method) {
-        // --- LOCAL CLASS ---
+
         class PriceCalculator {
             double calculate() {
                 double discount = switch (ticket.category()) {
@@ -42,8 +42,7 @@ public class TicketDriver {
 
         double finalPrice = new PriceCalculator().calculate();
 
-        // --- ANONYMOUS CLASS ---
-        // Kita mendefinisikan perilaku pembayaran berdasarkan metode yang dipilih
+
         interface PaymentGateway {
             void pay(double amount);
         }
