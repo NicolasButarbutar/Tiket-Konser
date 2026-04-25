@@ -63,5 +63,6 @@ Sistem secara otomatis menerapkan diskon berdasarkan kategori tiket yang dipilih
 - **VIP/Reguler**: Diskon 5%
 
 ## 📝 Referensi Materi
-- Simaremare, Mario. 11-01-Nested Constructs. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
-- imaremare, Mario. 11-03-Record. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
+- Simaremare, Mario. 12-01-Local Classes. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
+
+- Simaremare, Mario. 12-02-Anonymous Classes. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
