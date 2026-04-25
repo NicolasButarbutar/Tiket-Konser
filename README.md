@@ -58,10 +58,10 @@ ID Tiket : 849201
 ## ⚖️ Standar Penilaian Konser (Diskon)
 Sistem secara otomatis menerapkan diskon berdasarkan kategori tiket yang dipilih:
 
-- **VVIP: Diskon 20%
+- **VVIP**: Diskon 20%
 
-- **VIP/Reguler: Diskon 5%
+- **VIP/Reguler**: Diskon 5%
 
 ## 📝 Referensi Materi
-- **Simaremare, Mario. 11-01-Nested Constructs. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
-- **imaremare, Mario. 11-03-Record. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
+- Simaremare, Mario. 11-01-Nested Constructs. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
+- imaremare, Mario. 11-03-Record. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
