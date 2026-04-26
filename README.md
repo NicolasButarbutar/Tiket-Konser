@@ -58,9 +58,11 @@ ID Tiket : 849201
 ## ⚖️ Standar Penilaian Konser (Diskon)
 Sistem secara otomatis menerapkan diskon berdasarkan kategori tiket yang dipilih:
 
-- **VVIP**: Diskon 20%
+- **VVIP**: Diskon 15%
 
-- **VIP/Reguler**: Diskon 5%
+- **VIP**: Diskon 10%
+
+- **Reguler**: Tidak diskon
 
 ## 📝 Referensi Materi
 - Simaremare, Mario. 12-01-Local Classes. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
